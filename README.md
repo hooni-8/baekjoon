@@ -8,6 +8,7 @@
 
 ### 📌 [1. 입출력과 사칙연산](src/iOArithmeticOperations)
 ### 📌 [2. 조건문](src/ConditionalStatement)
+### 📌 [3. 반복문](src/Iteration)
 
 🚀 **시간 날 때마다 꾸준히 업데이트할 예정입니다!**
 
