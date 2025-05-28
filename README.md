@@ -10,6 +10,10 @@
 ### 📌 [2. 조건문](src/ConditionalStatement)
 ### 📌 [3. 반복문](src/Iteration)
 ### 📌 [4. 1차원 배열](src/OneDimensionalArrays)
+### 📌 [5. 문자열](src/CharacterString)
+### 📌 [6. 심화 1](src/Deep1)
+### 📌 [7. 2차원 배열](src/TwoDimensionalArray)
+### 📌 [8. 일반 수학 1](src/BasicMath1)
 
 🚀 **시간 날 때마다 꾸준히 업데이트할 예정입니다!**
 
